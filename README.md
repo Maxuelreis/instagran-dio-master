@@ -2,5 +2,5 @@
 
 DESCRIÇÃO
 
-Página de login do Instagram: nesse projeto, foi abordado conceitos CSS Flexbox
+Página de login do Instagram: nesse projeto, foram abordados conceitos CSS Flexbox
 e responsividade.
